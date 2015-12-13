@@ -1,0 +1,11 @@
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_BBS\Iwona_Maraskiewicz_BBS\bin\Debug\Iwona_Maraskiewicz_BBS.exe
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_BBS\Iwona_Maraskiewicz_BBS\bin\Debug\Iwona_Maraskiewicz_BBS.pdb
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_BBS\Iwona_Maraskiewicz_BBS\obj\x86\Debug\MainWindow.baml
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_BBS\Iwona_Maraskiewicz_BBS\obj\x86\Debug\MainWindow.g.cs
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_BBS\Iwona_Maraskiewicz_BBS\obj\x86\Debug\App.g.cs
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_BBS\Iwona_Maraskiewicz_BBS\obj\x86\Debug\Iwona_Maraskiewicz_BBS_MarkupCompile.cache
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_BBS\Iwona_Maraskiewicz_BBS\obj\x86\Debug\Iwona_Maraskiewicz_BBS.g.resources
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_BBS\Iwona_Maraskiewicz_BBS\obj\x86\Debug\Iwona_Maraskiewicz_BBS.Properties.Resources.resources
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_BBS\Iwona_Maraskiewicz_BBS\obj\x86\Debug\Iwona_Maraskiewicz_BBS.csproj.GenerateResource.Cache
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_BBS\Iwona_Maraskiewicz_BBS\obj\x86\Debug\Iwona_Maraskiewicz_BBS.exe
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_BBS\Iwona_Maraskiewicz_BBS\obj\x86\Debug\Iwona_Maraskiewicz_BBS.pdb
